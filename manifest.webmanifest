@@ -1,0 +1,31 @@
+{
+  "name": "SAMEXA \u2014 Your mind. Your mission. Your future.",
+  "short_name": "SAMEXA",
+  "description": "A personalised study and multiplayer quiz app for Sri Lankan O/L learners.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061326",
+  "theme_color": "#061326",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
