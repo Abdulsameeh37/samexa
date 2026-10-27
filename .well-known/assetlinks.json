@@ -1,0 +1,14 @@
+[
+{
+"relation": [
+"delegate_permission/common.handle_all_urls"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "dev.pages.samexa.twa",
+"sha256_cert_fingerprints": [
+"57:9D:09:12:EE:ED:55:80:57:D2:67:19:35:98:BA:0A:29:C6:58:5B:6F:EA:0D:B2:84:22:6D:83:D5:A8:FF:20"
+]
+}
+}
+]
