@@ -2,7 +2,7 @@
   "name": "SAMEXA \u2014 Your mind. Your mission. Your future.",
   "short_name": "SAMEXA",
   "description": "A personalised study and multiplayer quiz app for Sri Lankan O/L learners.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#061326",
